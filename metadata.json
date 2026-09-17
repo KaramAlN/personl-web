@@ -1,0 +1,6 @@
+{
+  "name": "Karam Naamneh Portfolio",
+  "description": "Progressive Web App portfolio of Karam Naamneh (Karam Assef Al-Yousef) — AI Student at Al-Zarqa University, based in Irbid, Jordan, Local Lead for NASA Space Apps Challenge Irbid 2026, and AI Team Leader at Breakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
